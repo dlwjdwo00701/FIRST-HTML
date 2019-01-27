@@ -1,0 +1,20 @@
+body{
+  margin: 20px
+}
+h1{
+  text-align: center;
+  color:red;
+}
+#테두리{
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  border: 3px black solid;
+}
+ul{
+  border-right:3px black solid;
+  margin:0;
+  width:260px;
+}
+.마진{
+  margin:0px;
+}
